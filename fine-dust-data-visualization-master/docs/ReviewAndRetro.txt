@@ -1,0 +1,18 @@
+Review: 
+
+- Anwendung mit einer Karte, allerdings noch keine Funktionalität.
+- API ist definiert und ein Dummy-Backend liegt vor. 
+- Sprint Ziel wurde erreicht 
+- Wichtige Artefakte wurden erstellt (DoD, DoR)
+- 
+
+Retrospektive: 
+
+
++ Umfang des Sprints war gut 
++ 
++
+
+- Kommunikation war verbesserungswürdig, zwischen Frontend und Backend
+- Tasks waren oft nicht eindeutig, AK hat gefehlt, zum Teil auch redundant
+-

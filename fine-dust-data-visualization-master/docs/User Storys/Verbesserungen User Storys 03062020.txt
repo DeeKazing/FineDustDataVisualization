@@ -1,0 +1,7 @@
+User Story Heatmap legende: ein Legende zu viel im Satz
+
+User Story Tile: User Story neu formulieren, damit der Satz alles abdeckt bzw für sich steht
+
+User Story Android: interaktive elemente bedienbar 7mm mindestendens und lesbarkeit der Schrift 0,5cm
+
+User Story Graph: umändern auf einen Sensorwert, 2 Werte wäre optional für übernächsten sprint

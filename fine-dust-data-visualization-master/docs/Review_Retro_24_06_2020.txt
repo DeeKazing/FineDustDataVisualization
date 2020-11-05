@@ -1,0 +1,17 @@
+Sprint Review:
+- Hexfeld Container wird dargestellt und über ganz Deutschland verteilt. Die Hexfelder sind bisher noch einheitlich gefärbt und richten sich noch nicht nach den Sensorwerten.
+- Es gibt eine Legende welche die unterschiedlichen Farben der Tiles erklärt. Die Legende ändert sich je nachdem welche Art von Daten auf der Karte angezeigt werden sollen.
+- Es ist ein Framework vorhanden mit dem Buttons einheitlich erzeugt werden können.
+- Graph lässt sich mit selbsterstellten Daten darstellen, ist jedoch noch auf anderen Branch.
+- Dummy Backend ist nicht vorhanden.
+- Daten aus dem Backend lassen sich in der UI anzeigen (wurde mit Ausgabe von Abfrage in Graphpage getestet)
+- Es gibt einen Zurückbutton welcher statt dem Burgermenubutton anzeigt wird, wenn man sich in der Graph- oder Optionpage befindet. Wenn man diesen Button drückt kommt man
+von jeder beliebigen Ansicht zurück auf die Ansicht der Karte.
+- Hexfeld passt sich noch nicht nach Zoomlevel an, dieser Task wird mit in den nächsten Sprint genommen.
+- Funktionalität des Graphens ist noch implementiert, dies wird im nächsten Sprint behandelt.
+
+Sprint Retro:
++ Backend Task Aufteilung ist okay, weil in diesem Sprint weniger Backend Tasks vorhanden waren.
++ Kommunikation im Team und die Bereitschaft zu helfen ist gut.
+
+- Tasks sind vom Aufwand unterschätzt worden

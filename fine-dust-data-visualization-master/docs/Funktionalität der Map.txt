@@ -1,0 +1,11 @@
+Wenn man auf Tile klickt: Pop-Up mit Informationen, aktuelle Daten mit Datum und außerdem 1-2 vergangene Daten
+Wenn man eine Stadt sucht bzw. eingibt, dann wird die Karte darüber zentriert (wenn es falsch angezeigt wird muss PLZ oder Straße mit angegeben werden)
+Rescaling vom Tile je nachdem wie weit rausgezoomt (zusammenfassen der Daten, in einem Bereich)
+Tile Farbe verändert sich je nach Höhe des jeweiligen Wertes
+Tastatur +/- auch für das Zoomen möglich
+Auswahl der Daten im Burgermenü
+Darkmode eher nur bei Menüs (je nach Umsetzbarkeit und Zeit auch bei Karte)
+Anzahl der Sensoren im Pop-Up sowohl wie auch bei den Historischen Daten anzeigen
+Hexagone für die Tiles als Overlay
+Im Datenvergleich wird der Ort über dem man gerade mit der Karte ist genommen, wenn noch keine Region ausgewählt wurde
+(Optional: Auf der Karte offizielle Messdaten anzeigen z.B. Darmstadt Hügelstraße usw.)

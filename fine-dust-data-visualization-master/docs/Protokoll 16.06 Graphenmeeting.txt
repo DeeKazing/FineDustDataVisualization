@@ -1,0 +1,4 @@
+Präsent am Meeting waren: Martin, Ilir, Yaroslav, Patrick, Feridun und Sundeep
+
+Die Gruppe hat sich auf das Graphendarstellung der Multiplen Achsen wie es im QT_QML charts Dokument beschrieben wird geeignigt.
+Arbeitsaufteilung der einzelnen Tasks wird am 17.06 besprochen.

@@ -1,0 +1,98 @@
+Dokumentation jeweils ber den Definitionen der Kapselungen, Klassen, Funktionen, Enum.
+Einzelne Variabeln, Kommentar mit 2x Tabulator einrcken.
+Zwischen den Verschiedenen Blcken (verschiedene Statements) jeweils eine Leerzeile zur bersichtlichkeit.
+Bei greren oder verschachtelten if/ else, dokumentieren. 
+Sollte das if/ else es auf dem ersten Blick erkennbar sein, keine Dokumentation notwendig.
+
+
+@todo falls sprintbergreifende Funktionalitt zu einem spteren Zeitpunkt implementiert werden muss
+
+
+Funktionen:
+
+/**
+ *! \brief	(Kurzbeschreibung)
+ *
+ * (detaillierte Beschreibung)
+ *
+ * @param xy 	(Beschreibung)
+ * @param yz 	(Beschreibung)
+ *
+ * @see fooBar()
+ *
+ * @return 	(Beschreibung)
+ *
+ * @todo 	(Beschreibung)
+ */
+
+
+Klassen:
+/**
+ *! \class MyClass
+ *
+ *  \brief	(Kurzbeschreibung)
+ ...
+ */
+
+
+Formeln:
+/**
+ ...
+ * \f$ (FORMEL) \f$
+ ...
+ */
+
+
+If / Else:
+
+/*! Unconditionally shown documentation.
+ *  \if Cond1
+ *    Only included if Cond1 is set.
+ *
+ *  \endif
+ *
+ *  \if Cond2
+ *    Only included if Cond2 is set.
+ *
+ *    \if Cond3
+ *      Only included if Cond2 and Cond3 are set.
+ *
+ *    \endif
+ *    More text.
+ *
+ *  \endif
+ *  Unconditional text.
+ */
+
+Alternativen: 
+ *   \if cond1
+ *     Only included if Cond1 is set.
+ *
+ *   \elseif Cond2
+ *     Only included if Cond2 is set.
+ *
+ *   \endif
+
+
+Exceptions:
+/*!
+ * \throw <Exception-Objekt> (Beschreibung)
+ */
+
+
+Dateien:
+
+/** 
+ * \file file.h
+ *
+ * (Kurzbeschreibung)
+ *
+ * (detaillierte Beschreibung)
+ */
+
+
+Variabeln (aussagekräftige Variablen, keine Kommentare benötigt):
+
+int sensorTyp;		
+
+

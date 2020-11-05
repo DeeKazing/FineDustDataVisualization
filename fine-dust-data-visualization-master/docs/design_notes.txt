@@ -1,0 +1,35 @@
+Entwurf des User-Interfaces:
+
+- Karte als Startbildschirm.
+- Burgermenü
+- Zoom in/out-Buttons auf Desktop- und Tabletanwendung sichtbar, auf Mobilen Endgeräten nicht(2-Finger Zoom implementieren). 
+- Legende für die angezeigten Werte wie bei der Beispiel-Applikation(Ändert sich je nach angezeigten Daten). 
+- Hexagone als Overlay für Darstellung der Werte der Datenbank (Farbe ändert sich je nach Wert, s. Beispiel)
+- Graphen aus Sundeeps Entwurf für Vergleiche nehmen -> Separates Fenster
+- Vergleich von 2 Werten im Graphen mit 2 Y-Achsen. (Wie bei einem Klimadiagramm)
+- Noch zu entscheiden: 2 Dropdown-Listen oder Checkboxen
+- X-Achse ist die Zeit, diese soll einstellbar sein (intraday, Tage, Wochen).  
+- Anzahl der Sensoren anzeigen zur besseren Übersicht der Messungenauigkeit. 
+
+
+
+Burgermenü:
+
+- Auswahl des angezeigten Wertes(PM2.5, PM10, Temp. etc.)
+- Zurück-Button nicht vergessen.
+- Einstellungen:
+    - Anzeige der Sensoren.
+    - Appearance:
+        - Dark Mode: Slider Button
+        - Linkshändermodus: Slider Button -> Ändert Position v. Burgermenü und Legende
+        - Fonts: Dropdown.
+        - Fontsize: S, M, L.
+        - Bold Slider Button.
+
+    - optional: Mehrsprachigkeit
+
+Fragen: 
+
+- Build auf Android.
+- Mehrsprachig. 
+- Implementation einer Suche 
